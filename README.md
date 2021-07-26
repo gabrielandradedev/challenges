@@ -63,6 +63,7 @@ _(Clicar no código o levará para pagina oficial de desafio e clicar na linguag
 | [1612] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1612/Main.java) |
 | [1770] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1770/Main.java) |
 | [1787] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1787/Main.java) |
+| [1890] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1890/Main.java) |
 | [1986] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1986/Main.java) |
 | [2411] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/2411/Main.java) |
 | [2858] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/2858/Main.java) |
@@ -138,6 +139,7 @@ No caso dos desafios de plataforma (como a URI) é muito importante que tente fa
 [1612]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1612
 [1770]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1770
 [1787]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1787
+[1890]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1890
 [1986]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1986
 [2411]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2411
 [2858]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2858
