@@ -60,8 +60,13 @@ _(Clicar no código o levará para pagina oficial de desafio e clicar na linguag
 | :---: | :--- |
 | [1266] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1266/Main.java) |
 | [1495] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1495/Main.java) |
+| [1612] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1612/Main.java) |
+| [1770] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1770/Main.java) |
+| [1787] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1787/Main.java) |
+| [1986] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1986/Main.java) |
 | [2411] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/2411/Main.java) |
 | [2858] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/2858/Main.java) |
+| [3048] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/3048/Main.java) |
 | [3137] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/3137/Main.java) |
 
 #### String
@@ -81,9 +86,7 @@ _(Clicar no código o levará para pagina oficial de desafio e clicar na linguag
 | [1907] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Grafos/1907/Main.java) |
 
 ## Licensa MIT
-Você é livre pra fazer o que quiser com esse código. 😉
-
-Toda via, é muito importante que você tente fazer os desafios vistos aqui por conta própria, sendo o uso indicado para consulta apenas.
+No caso dos desafios de plataforma (como a URI) é muito importante que tente fazer os desafios vistos aqui por conta própria, sendo contra os termos de uso da plataforma o plágio. Nesses casos, o uso é direcionado para consulta apenas. Os códigos presentes nesse repositório são de uso livre para qualquer outro fim.
 
 [você pode consultar o meu perfil na plataforma]: https://www.urionlinejudge.com.br/judge/pt/profile/483841
 [pasta URI]: https://github.com/gabrielandradedev/challenges/tree/master/URI
@@ -132,8 +135,13 @@ Toda via, é muito importante que você tente fazer os desafios vistos aqui por 
 
 [1266]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1266
 [1495]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1495
+[1612]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1612
+[1770]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1770
+[1787]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1787
+[1986]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1986
 [2411]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2411
 [2858]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2858
+[3048]: https://www.urionlinejudge.com.br/judge/pt/problems/view/3048
 [3137]: https://www.urionlinejudge.com.br/judge/pt/problems/view/3137
 
 [2690]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2690
