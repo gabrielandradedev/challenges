@@ -59,6 +59,7 @@ _(Clicar no código o levará para pagina oficial de desafio e clicar na linguag
 | Código | Resoluções |
 | :---: | :--- |
 | [1266] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1266/Main.java) |
+| [1379] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1379/Main.java) |
 | [1495] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1495/Main.java) |
 | [1612] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1612/Main.java) |
 | [1770] | [![Java]](https://github.com/gabrielandradedev/challenges/blob/master/URI/Ad-Hoc/1770/Main.java) |
@@ -135,6 +136,7 @@ No caso dos desafios de plataforma (como a URI) é muito importante que tente fa
 [3062]: https://www.urionlinejudge.com.br/judge/pt/problems/view/3062
 
 [1266]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1266
+[1379]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1379
 [1495]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1495
 [1612]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1612
 [1770]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1770
